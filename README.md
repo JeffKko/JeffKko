@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffKko&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffKko&layout=compact&theme=solarized-dark)
 
 <!--
 **JeffKko/JeffKko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
