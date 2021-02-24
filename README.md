@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **CI/CD flow, second/third languages**
 
-- 📝 I regularly write articles on [https://jeffkko.github.io/blog/](https://jeffkko.github.io/blog/)
+- 📝 I regularly write articles on [here](https://jeffkko.github.io/blog/)
 
 - 💬 Ask me about **vue, javascript, nodeJs**
 
-- 📄 Know about my experiences [https://hackmd.io/@jzAV4dxpRviFxKd2XnW_9g/SyIdkgCoE?type=view](https://hackmd.io/@jzAV4dxpRviFxKd2XnW_9g/SyIdkgCoE?type=view)
+- 📄 Know about my experiences [here](https://hackmd.io/@jzAV4dxpRviFxKd2XnW_9g/SyIdkgCoE?type=view)
 
 
 <h3 align="left">Languages and Tools:</h3>
