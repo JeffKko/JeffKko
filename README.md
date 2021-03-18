@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-- 🔭 I’m currently working on [Buyandship](https://www.buyandship.com.tw/)
+- 🔭 I’m currently working for [Buyandship](https://www.buyandship.com.tw/)
 
 - 🌱 I’m currently learning **CI/CD flow, second/third languages**
 
