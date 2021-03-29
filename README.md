@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **any Frontend knowledge**
 
-- 📄 Know about my experiences [here](https://hackmd.io/@jzAV4dxpRviFxKd2XnW_9g/SyIdkgCoE?type=view)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/jeff-kuo)
 
 - 📝 I regularly write articles on [here](https://jeffkko.github.io/blog/)
 
