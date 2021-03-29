@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working for [Buyandship](https://www.buyandship.com.tw/)
 
-- 🌱 I’m currently learning **CI/CD flow, second/third languages**
+- 🌱 I’m currently learning **Test Automation, second/third languages**
 
-- 💬 Ask me about **vue, javascript, nodeJs**
+- 💬 Ask me about **any Frontend knowledge**
 
 - 📄 Know about my experiences [here](https://hackmd.io/@jzAV4dxpRviFxKd2XnW_9g/SyIdkgCoE?type=view)
 
