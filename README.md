@@ -11,6 +11,8 @@
 
 - 📝 I regularly write articles on [here](https://jeffkko.github.io/blog/)
 
+- if anything here is helpful to you, you could buy me a coffee [here](https://www.buymeacoffee.com/jeffkko)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
